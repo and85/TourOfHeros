@@ -5,4 +5,3 @@ import {AppComponent} from './app/app.component';
 bootstrapApplication(AppComponent, {
   providers: [provideProtractorTestingSupport()],
 });
-
